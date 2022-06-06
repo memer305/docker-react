@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <p>I get changed in v2</p>
         <p>
           Edits <code>src/App.js</code> and save to reloads.
         </p>
